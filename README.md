@@ -33,7 +33,7 @@
 
 I'm **Prince Jha**, a Computer Science and Information Technology student interested in software engineering, AI, and building practical technology projects.
 
-- 🎓 Pursuing B.Tech in CSIT
+- 🎓 Pursuing B.Tech CSE
 - 💻 Strengthening my programming and problem-solving fundamentals
 - 🌐 Exploring modern frontend and backend development
 - 🤖 Interested in Artificial Intelligence and Machine Learning
