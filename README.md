@@ -117,30 +117,6 @@ Turning knowledge into projects and collaborative contributions.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" alt="Programming languages"/>
 </p>
 
-### 🎨 Frontend Engineering
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,vite&theme=dark" alt="Frontend technologies"/>
-</p>
-
-**Areas:** Responsive design · Component-based UI · Accessibility · Web performance
-
-### ⚙️ Backend Engineering
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring&theme=dark" alt="Backend technologies"/>
-</p>
-
-**Areas:** REST APIs · Authentication · Server-side logic · API integration
-
-### 🗄️ Databases & Storage
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase&theme=dark" alt="Databases and storage"/>
-</p>
-
-**Areas:** SQL · Data modelling · CRUD operations · Database integration
-
 ### 🤖 AI / ML / Data Science
 
 <p align="left">
