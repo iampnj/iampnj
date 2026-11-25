@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0f172a,70:164e63,100:2563eb&text=PRINCE%20JHA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Prince Jha profile banner"/>
 
 <a href="https://github.com/iampnj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prince+Jha;CSE+Student+%7C+Aspiring+Software+Developer;Exploring+Full-Stack+%26+AI%2FML;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prince+Jha;CSE+Student+%7C+Full+Stack+Developer ;DSA & Problem+Solving%26+AI%2FML;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" alt="Animated introduction"/>
 </a>
 
 <p>
