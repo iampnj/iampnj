@@ -33,7 +33,6 @@
 
 I'm **Prince Jha**, B.Tech CSE Student @ NSEC 🎓 | Full Stack Developer | DSA & Problem Solving | AI & Cloud Computing ☁️ | Building Real-World Projects 🚀 | Open to Hackathons, Internships and Collaborations
 
-- 🎓 Pursuing B.Tech CSE
 - 💻 Strengthening my programming and problem-solving fundamentals
 - 🌐 Exploring modern frontend and backend development
 - 🤖 Interested in Artificial Intelligence and Machine Learning
