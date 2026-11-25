@@ -122,7 +122,7 @@ Turning knowledge into projects and collaborative contributions.
 ### 🤖🤖 AI / ML / Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" alt="AI and machine learning"/>
+  <img src="https://skillicons.dev/icons?i=python,Jupyter&theme=dark" alt="AI and machine learning"/>
 </p>
 
 <p>
