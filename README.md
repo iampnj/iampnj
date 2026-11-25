@@ -149,8 +149,7 @@ Turning knowledge into projects and collaborative contributions.
 
 **Areas:** Version control · Debugging · API testing · Command-line workflows
 
-> These categories describe my broader learning roadmap. The presence of an icon does not imply professional proficiency. I aim to demonstrate my skills through working projects.
-
+> > These categories represent technologies and domains I have explored and worked with through hands-on practice, learning, and projects. I continuously improve my skills by building, experimenting, and solving real-world problems.
 ---
 
 ## 🚀 Featured Project Portfolio
