@@ -120,7 +120,7 @@ Turning knowledge into projects and collaborative contributions.
 ### 🤖 AI / ML / Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter&theme=dark" alt="AI and machine learning"/>
+  <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" alt="AI and machine learning"/>
 </p>
 
 <p>
@@ -142,7 +142,7 @@ Turning knowledge into projects and collaborative contributions.
 ### 🔧 Tools & Developer Workflow
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,cmake,vim&theme=dark" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark" alt="Development tools"/>
 </p>
 
 **Areas:** Version control · Debugging · API testing · Command-line workflows
