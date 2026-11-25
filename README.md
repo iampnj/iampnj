@@ -108,7 +108,7 @@ Turning knowledge into projects and collaborative contributions.
 
 ---
 
-## 🛠️ Technology Universe
+## 🛠️ Mine Technology Universe
 
 ### 💻 Programming Languages
 
