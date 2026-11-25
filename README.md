@@ -116,7 +116,7 @@ Turning knowledge into projects and collaborative contributions.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" alt="Programming languages"/>
 </p>
-
+**Areas:** Programming fundamentals · Object-oriented programming · Problem-solving · Algorithm design · Competitive programming
 ### 🤖 AI / ML / Data Science
 
 <p align="left">
