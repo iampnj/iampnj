@@ -46,7 +46,7 @@ I'm **Prince Jha**, a Computer Science Engineering student interested in softwar
 
 ---
 
-## 🧭 My Development Roadmap
+## 🧭 Currently Building across these Domains
 
 <table>
 <tr>
