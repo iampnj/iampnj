@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding animation" width="290" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-I'm **Prince Jha**, a Computer Science and Information Technology student interested in software engineering, AI, and building practical technology projects.
+I'm **Prince Jha**, a Computer Science Engineering student interested in software engineering, AI, and building practical technology projects.
 
 - 🎓 Pursuing B.Tech CSE
 - 💻 Strengthening my programming and problem-solving fundamentals
