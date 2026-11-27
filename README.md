@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding animation" width="290" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-I'm **Prince Jha**, B.Tech CSE Student @ NSEC 🎓 | Full Stack Developer | DSA & Problem Solving | AI & Cloud Computing ☁️ | Building Real-World Projects 🚀 | Open to Hackathons, Internships and Collaborations
+I'm **Prince Jha**, B.Tech 2-year CSE Student @ NSEC 🎓 | Full Stack Developer | DSA & Problem Solving | AI & Cloud Computing ☁️ | Building Real-World Projects 🚀 | Open to Hackathons, Internships and Collaborations
 
 - 💻 Strengthening my programming and problem-solving fundamentals
 - 🌐 Exploring modern frontend and backend development
